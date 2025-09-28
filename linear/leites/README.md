@@ -20,6 +20,13 @@ Uma coleção de materiais úteis que foram utilizados na disciplina em período
 
 ## Provas
 
+### 2024.1
+**Prova** | **Reposição?** | **Links**  |
+:---: | :---:| :---: |
+1° estágio - Manhã | Não | [Link](https://drive.google.com/file/d/1Z9fSHqj0QJml0YeKQknTbBcrXG9YXID9/view?usp=drive_link) |
+2° estágio - Manhã | Não | [Link](https://drive.google.com/file/d/1m7BoeC6zolqtO9XQCTdVwLfqnfUgCulQ/view?usp=drive_link) |
+3º estágio - Manhã | Não | [Link](https://drive.google.com/file/d/1ceVZvBjoS27u_G7wL2UKUHiBLpfFAEPy/view?usp=drive_link) |
+
 ### 2022.2
 **Prova** | **Reposição?** | **Links**  |
 :---: | :---:| :---: |
